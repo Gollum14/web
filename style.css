@@ -16,4 +16,7 @@ h1 {
   font-size: 11px;
   font-weight: bold;
   text-align: center;
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
 }
