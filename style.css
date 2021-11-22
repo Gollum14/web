@@ -7,10 +7,10 @@ h1 {
   font-size: 32px;
   font-family: "papyrus", fantasy;
   text-align: center;
-  backgound-color: rgb(50, 29, 59);
+  background-color: rgb(50, 29, 59);
 }
 
-p {
+.text {
   font-family: "Lucida Console", "Courier New", monospace;
   color: rgb(255, 255, 255);
   font-size: 11px;
